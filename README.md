@@ -1,5 +1,5 @@
 # Desafío Amigo Secreto
-"Desaío amigo secreto" es un proyecto para Alura latam, en donde creamos una aplicación para jugar al amigo secreto, en donde tenemos que agregar a nuestros amigos, luego podemos sortear y conocer a nuestro amigo secreto.
+"Desaío amigo secreto" es un proyecto para Alura latam, en donde creamos una aplicación para jugar al amigo secreto, podemos agregar el nombre de nuestros amigos, luego podemos sortear y conocer a nuestro amigo secreto.
 
 ## Especificaciones
 El proyexto fue creado en lenguaje Javascript vainilla, o sea, no se ocupó ninguna biblioteca o frameworks externos.
@@ -12,6 +12,7 @@ El proyecto consiste en agregar nombres dentro de un imput para crear una lista 
 ## Futuras actualizaciones
 - Para una proxima actualización se podrán eliminar un nombre en específico, en el caso de equivocación al agregar un nombre o si no desean agregarlo al proyecto.
 - En el caso de querer agregar sólo caracteres especiales como símbolos en el imput donde deben ir los nombres, se agregará un alert que advierta que no se pueden agregar símbolos, solo nombres.
-- Se especificará cuales son simbolos especiales se permitirán dentro de un nombre, por ejemplo, permitir mayúsculas, minúsuculas y tildes, pero no agregar números entremedio de un nombre, como por ejemplo: 3st3b4n
+- Se especificará cuales son simbolos especiales se permitirán dentro de un nombre, por ejemplo, permitir mayúsculas, minúsuculas y tildes, pero no agregar números entremedio de un nombre, como por ejemplo: 3st3b4n.
+- Se eliminará el amigo secreto ya sorteado de la lista de participantes.
 
 
